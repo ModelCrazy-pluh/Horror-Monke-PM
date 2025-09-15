@@ -1,6 +1,6 @@
 MIT License
 
-Copyright © 2025 StyleRush LLC
+Copyright © 2024 StyleRush LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -20,7 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# Eerie Monke Interactable Player Model
+# Horror Monke FK Player Model
 
 An interactable **player model for Blender**.
 This is a substitute for my older non-interactable model with a fully interactable and customizable one.
@@ -33,7 +33,7 @@ This is a substitute for my older non-interactable model with a fully interactab
 
 ## ???? Requirements
 
-* Blender **4.x** (recommended)
+* Blender **2.x** (recommended)
 * Windows, macOS, and Linux compatible
 
 ## ???? How to Use
@@ -44,8 +44,7 @@ This is a substitute for my older non-interactable model with a fully interactab
 
 ## ???? Changelog
 
-* **v2.0** – Added full interactivity, improved rigging, and customization options
-* **v1.0** – Initial non-interactable player model
+* **v1.0** – Initial FK player model
 
 Created by **ModelCrazy**
 Influenced by **NachoEngine**
